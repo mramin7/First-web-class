@@ -1,3 +1,21 @@
 This is my first web class at SMIT.
 
 This is the second commit I am adding now.
+
+
+3rd Commit.
+The third commit I am doing is to write the step how to make repositry steps.
+
+1- Make a repositry in github and then copy the url.
+2- In the specific folder write in the top folder name cmd instead.
+// before proceding install git into your pc from the brower simply write git.
+3- Write in cmd git clone and paste url of your github you copied in step 1 it will download or clone your github repositry to your specific folder you selected.
+4- write cd ( repositry folder name you just cloned to your pc)
+5- write code .
+6- Make a new file in vs code you just opened and write name of file with .txt.
+7- Write some thing in it.
+8- Write git commit -m "your message" ( here you can write anything)
+// it will require your email and user name for one time only.
+9- Write git push to push your file or export you file to github.
+// For the first time you need to sign in with your user name and password and verify it in the brower.
+10- Now check your repositry in the github.
