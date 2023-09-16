@@ -1,1 +1,3 @@
 This is my first web class at SMIT.
+
+This is the second commit I am adding now.
